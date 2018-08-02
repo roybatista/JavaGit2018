@@ -10,6 +10,5 @@ public class Main {
     private int addNumbers(int i, int j){
         j = i + j;
         return j;
-
     }
 }
